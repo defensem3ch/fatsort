@@ -1,5 +1,6 @@
 # fatsort
 
 Fork of https://sourceforge.net/projects/fatsort/ that matches Dirtywave M8 sorting when natural sort order is specified (files beginning with numeric digits are sorted higher than strings beginning with letters).
+Use the command 'fatsort -q -n -f -c <device>' to sort the same as using Shift-Option.
 
 Please have a look at man page man/fatsort.1.
