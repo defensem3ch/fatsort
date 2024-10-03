@@ -1,0 +1,5 @@
+insertCluster: Loop in cluster chain detected (00000002)!
+getClusterChain: Failed to insert cluster!
+sortClusterChain: Failed to get cluster chain!
+sortFileSystem: Failed to sort first cluster chain!
+main: Failed to sort file system!

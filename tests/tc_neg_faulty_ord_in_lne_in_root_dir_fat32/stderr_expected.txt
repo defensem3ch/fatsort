@@ -1,0 +1,5 @@
+checkLongDirEntries: LongDirEntry number is 0x5 (0x5) but should be 0x3!
+parseClusterChain: checkDirEntry failed in cluster 00000002 at entry 5!
+sortClusterChain: Failed to parse cluster chain!
+sortFileSystem: Failed to sort first cluster chain!
+main: Failed to sort file system!

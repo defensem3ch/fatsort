@@ -1,0 +1,10 @@
+File system: exFAT.
+
+/
+firstdir
+first
+second
+last
+
+/firstdir/
+

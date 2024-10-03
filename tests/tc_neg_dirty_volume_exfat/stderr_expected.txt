@@ -1,0 +1,3 @@
+openFileSystem: Volume is marked as dirty. Please run fschk!
+sortFileSystem: Failed to open file system!
+main: Failed to sort file system!

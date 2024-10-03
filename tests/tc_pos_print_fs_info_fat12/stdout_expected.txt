@@ -1,0 +1,11 @@
+	- File system information -
+Device:					/tmp/fatsort-tc_pos_print_fs_info_fat12-fs.img
+Type:					FAT12
+Sector size:				512 bytes
+FAT size:				16 sectors (8192 bytes)
+Number of FATs:				2 
+Cluster size:				8192 bytes
+Max. cluster chain length:		524287 clusters
+Data clusters (total / used / bad):	1214 / 8 / 4
+FS size:				9.48 MiBytes
+FAT12 root directory Entries:		512

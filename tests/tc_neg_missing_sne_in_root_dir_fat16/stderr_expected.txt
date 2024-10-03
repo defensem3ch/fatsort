@@ -1,0 +1,4 @@
+parseFat1xRootDirEntries: ShortDirEntry is missing after LongDirEntries (root directory entry 10)!
+sortFat1xRootDirectory: Failed to parse root directory entries!
+sortFileSystem: Failed to sort FAT16 root directory!
+main: Failed to sort file system!

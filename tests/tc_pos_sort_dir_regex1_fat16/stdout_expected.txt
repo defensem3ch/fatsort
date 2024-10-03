@@ -1,0 +1,4 @@
+File system: FAT16.
+
+Sorting directory /dir3/subDir/
+Sorting directory /Directory1/

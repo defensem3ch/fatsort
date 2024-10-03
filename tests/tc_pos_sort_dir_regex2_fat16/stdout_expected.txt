@@ -1,0 +1,6 @@
+File system: FAT16.
+
+Sorting directory /A/
+Sorting directory /A/A/
+Sorting directory /A/C/
+Sorting directory /D/

@@ -1,0 +1,5 @@
+check_bootsector: Cluster size is larger than 64 kB!
+read_bootsector: This is not a FAT boot sector or sector is damaged!
+openFileSystem: Failed to read boot sector!
+sortFileSystem: Failed to open file system!
+main: Failed to sort file system!

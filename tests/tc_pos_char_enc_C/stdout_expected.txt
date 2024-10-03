@@ -1,0 +1,15 @@
+File system: FAT32.
+
+/
+Directory1
+B?chse
+B?rbel
+Br?tchen
+Sto?zahn
+
+/Directory1/
+B?chse
+B?rbel
+Br?tchen
+Sto?zahn
+

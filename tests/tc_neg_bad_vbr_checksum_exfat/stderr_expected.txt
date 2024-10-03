@@ -1,0 +1,4 @@
+checkVbrCecksum: Failed to verify VBR checksum (calculated=111E80B0, found=111E2BB0)!
+openFileSystem: Volume Boot Record checksum verification failed!
+sortFileSystem: Failed to open file system!
+main: Failed to sort file system!

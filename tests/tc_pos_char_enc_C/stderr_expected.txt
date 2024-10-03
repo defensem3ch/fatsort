@@ -1,0 +1,1 @@
+main: WARNING: The C locale does not support all multibyte characters!

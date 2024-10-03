@@ -1,0 +1,4 @@
+File system: FAT32.
+
+Sorting directory /dir3/subDir/
+Sorting directory /Directory1/

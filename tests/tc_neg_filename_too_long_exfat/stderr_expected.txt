@@ -1,0 +1,4 @@
+parseExFATClusterChain: Secondary count in exFAT file directory entry is too big (19)!
+sortExFATClusterChain: Failed to parse cluster chain!
+sortFileSystem: Failed to sort first cluster chain!
+main: Failed to sort file system!

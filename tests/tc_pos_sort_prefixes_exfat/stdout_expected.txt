@@ -1,0 +1,31 @@
+File system: exFAT.
+
+/
+ABC
+The Beatles
+Beat me
+Teletubbie
+Test
+UFO
+The Unknown
+
+/ABC/
+
+/The Beatles/
+
+/Beat me/
+
+/Teletubbie/
+
+/Test/
+ABC
+The Beatles
+Beat me
+Teletubbie
+UFO
+The Unknown
+
+/UFO/
+
+/The Unknown/
+

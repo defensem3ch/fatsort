@@ -1,0 +1,8 @@
+File system: exFAT.
+
+Sorting directory /
+Directory reordered. Writing changes.
+Sorting directory /dir3/
+Sorting directory /dir3/subDir/
+Sorting directory /Directory1/
+Sorting directory /directory2/

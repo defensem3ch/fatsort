@@ -1,0 +1,10 @@
+File system: FAT32.
+
+/
+firstdir
+first
+second
+last
+
+/firstdir/
+

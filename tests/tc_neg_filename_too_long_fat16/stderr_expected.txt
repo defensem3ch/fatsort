@@ -1,0 +1,4 @@
+parseFat1xRootDirEntries: Filename length exceeds 255 characters (260 characters)!
+sortFat1xRootDirectory: Failed to parse root directory entries!
+sortFileSystem: Failed to sort FAT16 root directory!
+main: Failed to sort file system!

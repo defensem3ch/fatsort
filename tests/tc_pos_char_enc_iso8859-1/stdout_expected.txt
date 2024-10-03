@@ -1,0 +1,15 @@
+File system: FAT32.
+
+/
+Directory1
+Bärbel
+Brötchen
+Büchse
+Stoßzahn
+
+/Directory1/
+Bärbel
+Brötchen
+Büchse
+Stoßzahn
+

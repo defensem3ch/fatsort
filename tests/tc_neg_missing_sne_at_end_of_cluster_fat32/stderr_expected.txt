@@ -1,0 +1,6 @@
+parseClusterChain: ShortDirEntry is missing after LongDirEntries (root directory entry 16)!
+sortClusterChain: Failed to parse cluster chain!
+sortSubdirectories: Failed to sort cluster chain!
+sortClusterChain: Failed to sort subdirectories!
+sortFileSystem: Failed to sort first cluster chain!
+main: Failed to sort file system!

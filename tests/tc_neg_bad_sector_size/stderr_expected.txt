@@ -1,0 +1,5 @@
+check_bootsector: Sector size is not a multiple of 512 (511)!
+read_bootsector: This is not a FAT boot sector or sector is damaged!
+openFileSystem: Failed to read boot sector!
+sortFileSystem: Failed to open file system!
+main: Failed to sort file system!

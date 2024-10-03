@@ -1,0 +1,4 @@
+getClusterChain: Cluster 00000002 is marked as unused!
+sortClusterChain: Failed to get cluster chain!
+sortFileSystem: Failed to sort first cluster chain!
+main: Failed to sort file system!

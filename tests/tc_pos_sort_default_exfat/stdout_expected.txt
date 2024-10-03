@@ -1,0 +1,66 @@
+File system: exFAT.
+
+/
+dir3
+Directory1
+directory2
+001c
+01b
+1
+10
+1a
+2
+3
+4
+5
+6
+7
+8
+9
+Ä
+b
+c
+d
+e
+f
+file1.bin
+file2.bin
+file3.bin
+g
+h
+i
+j
+k
+l
+Long file name with lots of words and characters just to test long file name entries in FAT file systems1
+Long file name with lots of words and characters just to test long file name entries in FAT file systems2
+Long file name with lots of words and characters just to test long file name entries in FAT file systems3
+Long file name with lots of words and characters just to test long file name entries in FAT file systems4
+m
+o
+Ö
+p
+q
+r
+s
+t
+u
+Ü
+v
+w
+x
+y
+
+/dir3/
+subDir
+
+/dir3/subDir/
+
+/Directory1/
+Long file name with lots of words and characters just to test long file name entries in FAT file systems1
+Long file name with lots of words and characters just to test long file name entries in FAT file systems2
+Long file name with lots of words and characters just to test long file name entries in FAT file systems3
+Long file name with lots of words and characters just to test long file name entries in FAT file systems4
+
+/directory2/
+

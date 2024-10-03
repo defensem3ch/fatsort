@@ -1,0 +1,5 @@
+checkLongDirEntries: Checksum for LongDirEntry is 0xf7 but should be 0xa4!
+parseClusterChain: checkDirEntry failed in cluster 0000000a at entry 15!
+sortClusterChain: Failed to parse cluster chain!
+sortFileSystem: Failed to sort first cluster chain!
+main: Failed to sort file system!

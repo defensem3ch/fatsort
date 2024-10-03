@@ -1,0 +1,5 @@
+checkLongDirEntries: LongDirEntry should be marked as last long dir entry but isn't!
+parseFat1xRootDirEntries: checkDirEntry failed at root directory entry 5!
+sortFat1xRootDirectory: Failed to parse root directory entries!
+sortFileSystem: Failed to sort FAT16 root directory!
+main: Failed to sort file system!

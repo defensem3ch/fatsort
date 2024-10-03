@@ -1,0 +1,16 @@
+File system: FAT12.
+
+/
+dir_ABC2
+dir_Abc1
+dir_abc3
+ABC1
+Abc2
+abc3
+
+/dir_ABC2/
+
+/dir_Abc1/
+
+/dir_abc3/
+
